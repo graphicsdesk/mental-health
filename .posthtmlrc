@@ -7,12 +7,106 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Since Gov. Kathy Hochul announced a $1 billion investment in New York state mental health programs on Feb. 2, West Harlem community members and experts have expressed hope in  alleviating a long-standing shortage of services in the area."
+          },
+          {
+            "type": "text",
+            "value": "The governor’s plan, first outlined during the 2023 State of the State address in January, includes the addition of 1,000 new psychiatric beds and 3,500 units of supportive housing for individuals impacted by mental health conditions. Hochul also outlined a plan for 12 new comprehensive psychiatric emergency programs in New York state and five new Safe Options Support Teams in New York City to “provide outreach and connection to services for homeless populations with mental illness and substance use disorders.”"
+          },
+          {
+            "type": "text",
+            "value": "“We are fundamentally rebuilding, from the bottom up, our continuum of care. Continuum of care means we take care of everybody in the mental health system. It’s a monumental shift to make sure that no one else falls through the cracks,” Hochul said at the February press conference."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "mental-health-map.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "West Harlem is one of the areas of Manhattan with the highest number of mental health service shortages, according to Health Resources & Services Administration <a href=\"https://data.hrsa.gov/maps/map-tool/\">data</a>. Thomas Vance, a former Harlem resident and an adjunct professor at The New School, whose research focuses on the impacts of race, gender, and sexuality on mental health, explained some of the factors that may be linked to the shortage of health services in West Harlem."
+          },
+          {
+            "type": "text",
+            "value": "“Mental health services access inequity is a really significant issue in New York City, particularly with certain populations facing more significant barriers to access mental health care … including low income individuals, communities of colors, immigrants, and individuals who are without a home,” Vance said."
+          },
+          {
+            "type": "text",
+            "value": "The rate of poverty in Community Board 9, a factor Vance said is a major barrier to mental healthcare access, aligns with the shortage of mental health services in the area. 24 percent of Community Board 9 residents live in poverty compared to 14 percent of all Manhattan residents."
+          },
+          {
+            "type": "text",
+            "value": "“Low income individuals often face the financial barriers to accessing these mental health services,” Vance said. “So this includes limited insurance coverage or high co-pays, and really a lack of affordable mental health services in our communities.”"
+          },
+          {
+            "type": "text",
+            "value": "Data from the New York City Office of Community Mental Health shows that New York City residents without health insurance are less likely to have access to mental healthcare than those with insurance. 49.2 percent of New Yorkers with mental health needs who had health insurance received mental healthcare, while only 29.8 percent without insurance received care, according to the data."
+          },
+          {
+            "type": "text",
+            "value": "Community Board 9 has a higher rate of uninsured residents than Manhattan as a whole—11 percent versus 9 percent, according to a NYC Health <a href=\"https://www.nyc.gov/assets/doh/downloads/pdf/data/2018chp-mn9.pdf\">Community Health Profile</a> from 2018."
+          },
+          {
+            "type": "text",
+            "value": "John Robertson, a professor at the Columbia University School of Social Work who is active in community-based mental health groups in Bushwick, said addressing mental health in New York City requires a multi-faceted approach that is accessible for all residents. Robertson said he believes in a “self-help” model of mental health-care, with mental health services being provided by the community of people that have been impacted."
+          },
+          {
+            "type": "text",
+            "value": "Vance echoed the importance of investment in a holistic approach to mental health that will address the current disparities in West Harlem."
+          },
+          {
+            "type": "text",
+            "value": "“So this [approach] might include … providing financial assistance for mental health services, or expanding the number of mental health professionals from underrepresented communities and increasing funding for mental health clinics and services,” Vance said."
+          },
+          {
+            "type": "text",
+            "value": "Robertson questioned the vagueness of Hochul’s plan. While the governor has repeatedly highlighted the proposed “billion-dollar investment,” the press conference lacked extensive details about where these programs will primarily be concentrated, who will lead them, and what types of mental health they will target."
+          },
+          {
+            "type": "text",
+            "value": "Robertson said he is hopeful for the proposed investment, but emphasized that it should include a self-help based model and holistic support beyond initial psychiatric care."
+          },
+          {
+            "type": "text",
+            "value": "“If they’re just outreaching to people, and they said they get them to go to a psych ward, the psych ward gives them one fits description of medicine in the back on the street doing the same thing, which is what happens all the time because these other things aren’t there,” Robertson said."
+          },
+          {
+            "type": "text",
+            "value": "Deborah Levine, director of the Harlem Health Initiative for the City University’s School of Public Health, is currently working to implement this comprehensive approach in West Harlem through Harlem Strong, a new initiative set to launch in March of this year, for which Levine serves as the community director."
+          },
+          {
+            "type": "text",
+            "value": "“The goal of Harlem Strong is really to address the stigma and discrimination to help community health workers better understand how to navigate the system and how providers can link with community stakeholders to make sure that people have access to care,” Levine said."
+          },
+          {
+            "type": "text",
+            "value": "Levine said she applauds the governor’s steps toward addressing mental health in West Harlem and the rest of New York state. She said it is essential for such government investments to integrate community-based approaches and uplift the efforts of local organizations."
+          },
+          {
+            "type": "text",
+            "value": "“I think this money will afford communities like West Harlem to be able to, hopefully, as the money trickles down and is brought into the communities, will be able to address the communities that have the most need and the members of a community that need that level of support,” Levine said."
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff writer Claire Cleary can be contacted at </i><i>claire.cleary@columbiaspectator.com</i><i>. Follow her on Twitter @</i><a href=\"http://twitter.com/clairecleary_\"><i>clairecleary_</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Community members, local experts hopeful for new mental health investment plan, call for community-based focus",
+        "date": "March 3, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/claire-cleary/\">Claire Cleary</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1SdN0cwNIuIm_ul5VLwIrXyQt1X4DYflcQpayiAy9Obg/edit#"
       }
     }
   }
